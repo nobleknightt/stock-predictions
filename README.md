@@ -1,6 +1,6 @@
 <h1 align="center">Stock Predictions App</h1>
 
-<p align="center">using Python and <a><href="https://streamlit.io/">Streamlit</a></p>
+<p align="center">using Python and <a href="https://streamlit.io/">Streamlit</a></p>
 
 <p align="center"> <img src="./screenshot-1.png"> </p>
 
